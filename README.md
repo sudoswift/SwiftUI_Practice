@@ -11,7 +11,7 @@
 ------
 
 ### 1. github with Xcode
-[여기](https://notion.so/XCODE-393bcfa3ba744eafb090fb63a0cf3280) 참조
+ - [Notion](https://notion.so/XCODE-393bcfa3ba744eafb090fb63a0cf3280) 참조
 
 
 ### 2. About Swift
