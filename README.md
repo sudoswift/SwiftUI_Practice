@@ -10,7 +10,7 @@
  - [여기](https://www.youtube.com/watch?v=LiWtjXLlhYw&list=PLgOlaPUIbynqyJHiTEv7CFaXd8g5jtogT)
 ------
 
-### 1. Xcode with github
+### 1. github with Xcode
 [여기](https://notion.so/XCODE-393bcfa3ba744eafb090fb63a0cf3280) 참조
 
 
