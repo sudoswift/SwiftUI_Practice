@@ -4,7 +4,7 @@
  - Use m1 macOS Big Sur ver 11.3
  - Use ["Notion"](https://www.notion.so/) to study
 
-## :mag_right: 참조하는 것들
+## :mag_right: Help Here
  - [여기](https://seons-dev.tistory.com/)
  - [여기](https://www.youtube.com/watch?v=uUMWEu2YJew&list=PLuoeXyslFTuZRi4q4VT6lZKxYbr7so1Mr)
  - [여기](https://www.youtube.com/watch?v=LiWtjXLlhYw&list=PLgOlaPUIbynqyJHiTEv7CFaXd8g5jtogT)
@@ -15,5 +15,6 @@
 
 
 ### 2. About Swift
+- [Notion](https://www.notion.so/e38c38ef99cb44538a526bc8c37d234d)
 
 ### 3. About SwiftUI
