@@ -4,7 +4,7 @@
  - Use m1 macOS Big Sur ver 11.3
  - Use ["Notion"](https://www.notion.so/) to study
 
-## :mag_right: Help Here
+## :mag_right: Help!
  - [Here](https://seons-dev.tistory.com/)
  - [Here](https://www.youtube.com/watch?v=uUMWEu2YJew&list=PLuoeXyslFTuZRi4q4VT6lZKxYbr7so1Mr)
  - [Here](https://www.youtube.com/watch?v=LiWtjXLlhYw&list=PLgOlaPUIbynqyJHiTEv7CFaXd8g5jtogT)
