@@ -4,7 +4,7 @@
  - Use m1 macOS Big Sur ver 11.3
  - Use ["Notion"](https://www.notion.so/) to study
 
-# What i Did
+# <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" width="50rem" height="50rem"> What i Did
  - [SwiftUI in iPad Playgrounds](https://www.notion.so/SwiftUI-in-iPad-Playgrounds-0689e74a8132493cb49c0f91d8b5dc4e)
  - [1st SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_1)
  - [2nd SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_2)
