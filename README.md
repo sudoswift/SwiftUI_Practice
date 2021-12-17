@@ -1,7 +1,7 @@
 # :pencil2:(21/05/03) SwiftUI Practice 
 
  - Start from 2021/05/03
- - Use m1 macOS Big Sur ver 11.3
+ - Use m1 macOS Monterey v12.0.1
  - Use ["Notion"](https://www.notion.so/) to study
 
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567007151/noticon/ghy5xdycjyydtyhzcqmb.png" width="50rem" height="50rem"> What i Did
